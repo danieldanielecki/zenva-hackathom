@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "pink-enemy-0.png",
+	"frame": {"x":0,"y":0,"w":124,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":127},
+	"sourceSize": {"w":124,"h":127}
+},
+{
+	"filename": "pink-enemy-1.png",
+	"frame": {"x":0,"y":127,"w":124,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":127},
+	"sourceSize": {"w":124,"h":127}
+},
+{
+	"filename": "pink-enemy-2.png",
+	"frame": {"x":0,"y":254,"w":105,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":105},
+	"sourceSize": {"w":105,"h":105}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pink-enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":124,"h":359},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:84720580c2f52eedd34434feadc63f36:6275bc4a7660b8433455aed0a9982948:2eb1c26a4fa84e13339824ac31c2409f$"
+}
+}

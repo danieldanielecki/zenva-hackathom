@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "zenva-0.png",
+	"frame": {"x":0,"y":0,"w":124,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":131},
+	"sourceSize": {"w":124,"h":131}
+},
+{
+	"filename": "zenva-1.png",
+	"frame": {"x":0,"y":131,"w":124,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":131},
+	"sourceSize": {"w":124,"h":131}
+},
+{
+	"filename": "zenva-2.png",
+	"frame": {"x":0,"y":262,"w":105,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":105},
+	"sourceSize": {"w":105,"h":105}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zenva.png",
+	"format": "RGBA8888",
+	"size": {"w":124,"h":367},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d5f30d1bab939303cde34ae10fe51ad:56b9d270ecae854133ca17bc491d4511:faae75c4a26fbf2911c3860a4ee0246c$"
+}
+}

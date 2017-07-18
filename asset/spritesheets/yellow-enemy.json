@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "yellow-enemy-0.png",
+	"frame": {"x":0,"y":0,"w":124,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":108},
+	"sourceSize": {"w":124,"h":108}
+},
+{
+	"filename": "yellow-enemy-1.png",
+	"frame": {"x":124,"y":0,"w":124,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":108},
+	"sourceSize": {"w":124,"h":108}
+},
+{
+	"filename": "yellow-enemy-2.png",
+	"frame": {"x":248,"y":0,"w":105,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":105},
+	"sourceSize": {"w":105,"h":105}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "yellow-enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":353,"h":108},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5241140e68ae18bd9c7262cd1363fdc0:c7fbe7921414f251419c386609433e6d:55002ba102228bd1ce2c0237e4137bca$"
+}
+}
